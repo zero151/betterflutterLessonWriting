@@ -1,0 +1,4 @@
+C:\Users\zero3\AppData\Local\Pub\Cache\bin\spider.bat create
+
+
+dart pub global run spider build  каждыц раз когда добовляем фото
