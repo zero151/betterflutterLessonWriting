@@ -10,3 +10,6 @@ git push -u origin main  - Загрузи файлы на GitHub
 git add .
 git commit -m "Обновил дизайн сайта"
 git push
+
+
+git rm -r имя_папки - удалить папку -r  и всё что внутри
